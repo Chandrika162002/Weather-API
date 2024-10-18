@@ -1,18 +1,4 @@
 Weather Dashboard with MongoDB Integration
-Project Structure
-
-project_root/
-│
-├── app.py                  # Flask application with MongoDB integration
-├── templates/
-│   └── index.html          # Frontend HTML file (main page)
-├── static/
-│   ├── script.js           # JavaScript file for weather data fetching and API calls
-│   ├── style.css           # Stylesheet for frontend styling
-│   └── other static files (if any, e.g., images)
-├── README.md               # Documentation for the project (this file)
-├── requirements.txt        # Python dependencies (Flask, pymongo, etc.)
-└── WeatherAPI-main.zip     # Original ZIP file (optional)
 
 Prerequisites
 
